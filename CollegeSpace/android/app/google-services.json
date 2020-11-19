@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271894330261",
+    "firebase_url": "https://collegespace-519fe.firebaseio.com",
+    "project_id": "collegespace-519fe",
+    "storage_bucket": "collegespace-519fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271894330261:android:5606debb662323dd81d49c",
+        "android_client_info": {
+          "package_name": "com.example.CollegeSpace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271894330261-vu7ht9kqn1jupubh4hi515v8g9ukhuhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG17yR53C1QRUdo7Vxnog_4oJUZUSiiss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271894330261-vu7ht9kqn1jupubh4hi515v8g9ukhuhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
